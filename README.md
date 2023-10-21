@@ -15,7 +15,7 @@ Para executar a Estacionamento API, você precisará do seguinte:
 
 1. Clone o repositório:
    ```
-   git clone https://github.com/guilisboa07/WebApplication1.git
+   git clone https://github.com/guilisboa07/EstacionamentoAPI_.git
    ```
 
 2. Navegue até a pasta do projeto:
