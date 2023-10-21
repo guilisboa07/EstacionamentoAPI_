@@ -1,0 +1,7 @@
+C:\Users\usuario\Desktop\WebApplication1\obj\Debug\net7.0\EstacionamentoAPI.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\WebApplication1\obj\Debug\net7.0\EstacionamentoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\WebApplication1\obj\Debug\net7.0\EstacionamentoAPI.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\WebApplication1\obj\Debug\net7.0\EstacionamentoAPI.AssemblyInfo.cs
+C:\Users\usuario\Desktop\WebApplication1\obj\Debug\net7.0\EstacionamentoAPI.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\WebApplication1\obj\Debug\net7.0\EstacionamentoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\usuario\Desktop\WebApplication1\obj\Debug\net7.0\EstacionamentoAPI.MvcApplicationPartsAssemblyInfo.cache
